@@ -19,8 +19,6 @@ It uses **MFCC (Mel-Frequency Cepstral Coefficients)** as acoustic features and 
 ---
 
 
----
-
 ## 🧠 Model Architecture
 
 - **Input:** 120 MFCC-based feature values (augmented and concatenated)
